@@ -19,10 +19,20 @@
 "pat": 275,
 "rev": 1131
 },
+"hcltechnologies": {
+"ebitda": 7439,
+"pat": 5132,
+"rev": 35620
+},
 "poonawallafincorp": {
 "ebitda": null,
 "pat": 375,
 "rev": 2624
+},
+"rblbank": {
+"ebitda": null,
+"pat": 498,
+"rev": 4322
 },
 "tcs": {
 "ebitda": 18815,
