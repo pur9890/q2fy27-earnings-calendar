@@ -79,6 +79,11 @@
 "pat": 1010,
 "rev": 6788
 },
+"persistentsystems": {
+"ebitda": 633,
+"pat": 352,
+"rev": 4664
+},
 "polycabindia": {
 "ebitda": 1422,
 "pat": 990,
@@ -93,6 +98,11 @@
 "ebitda": null,
 "pat": 498,
 "rev": 4322
+},
+"tatacomm": {
+"ebitda": 1422,
+"pat": 336,
+"rev": 6688
 },
 "tataelxsi": {
 "ebitda": 231,
