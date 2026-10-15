@@ -44,6 +44,16 @@
 "pat": 780,
 "rev": 5005
 },
+"hdfcamc": {
+"ebitda": 930,
+"pat": 749,
+"rev": 1170
+},
+"hdfclifeinsur": {
+"ebitda": 332,
+"pat": 522,
+"rev": 24437
+},
 "icicilombard": {
 "ebitda": 1215,
 "pat": 946,
@@ -98,5 +108,10 @@
 "ebitda": 18815,
 "pat": 13934,
 "rev": 73188
+},
+"wipro": {
+"ebitda": 4863,
+"pat": 3200,
+"rev": 24753
 }
 }
