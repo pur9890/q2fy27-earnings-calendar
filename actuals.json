@@ -44,6 +44,11 @@
 "pat": 112,
 "rev": 4762
 },
+"cyientdlm": {
+"ebitda": 34,
+"pat": 34,
+"rev": 393
+},
 "hcltechnologies": {
 "ebitda": 7439,
 "pat": 5132,
@@ -148,6 +153,11 @@
 "ebitda": 2878,
 "pat": 1610,
 "rev": 16180
+},
+"tipsmusic": {
+"ebitda": 85,
+"pat": 66,
+"rev": 120
 },
 "wipro": {
 "ebitda": 4863,
