@@ -1,8 +1,18 @@
 {
+"360onewam": {
+"ebitda": 677,
+"pat": 300,
+"rev": 1144
+},
 "anandrathiwealth": {
 "ebitda": 117,
 "pat": 89,
 "rev": 344
+},
+"angelone": {
+"ebitda": 636,
+"pat": 335,
+"rev": 1427
 },
 "avenuesupermarts": {
 "ebitda": 1393,
@@ -123,6 +133,11 @@
 "ebitda": 18815,
 "pat": 13934,
 "rev": 73188
+},
+"techmahindra": {
+"ebitda": 2878,
+"pat": 1610,
+"rev": 16180
 },
 "wipro": {
 "ebitda": 4863,
