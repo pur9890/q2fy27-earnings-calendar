@@ -89,10 +89,20 @@
 "pat": 3541,
 "rev": 19149
 },
+"jiofinancial": {
+"ebitda": 1078,
+"pat": 340,
+"rev": 1699
+},
 "karurvysyabank": {
 "ebitda": null,
 "pat": 788,
 "rev": 3235
+},
+"landtfinance": {
+"ebitda": null,
+"pat": 973,
+"rev": 5484
 },
 "leelapalaceshotelsandresorts": {
 "ebitda": 176,
