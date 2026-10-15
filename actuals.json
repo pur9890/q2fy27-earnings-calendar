@@ -74,6 +74,11 @@
 "pat": 374,
 "rev": 12031
 },
+"iiflfinance": {
+"ebitda": null,
+"pat": 805,
+"rev": 4246
+},
 "indianbank": {
 "ebitda": null,
 "pat": 3541,
@@ -88,6 +93,11 @@
 "ebitda": 176,
 "pat": 95,
 "rev": 412
+},
+"metrobrands": {
+"ebitda": 197,
+"pat": 77,
+"rev": 730
 },
 "nestle": {
 "ebitda": 1598,
