@@ -59,6 +59,11 @@
 "pat": 34,
 "rev": 393
 },
+"dlf": {
+"ebitda": 23,
+"pat": 1301,
+"rev": 1261
+},
 "federalbank": {
 "ebitda": null,
 "pat": 1568,
@@ -124,6 +129,11 @@
 "pat": 95,
 "rev": 412
 },
+"ltm": {
+"ebitda": 2093,
+"pat": 1380,
+"rev": 11808
+},
 "metrobrands": {
 "ebitda": 197,
 "pat": 77,
@@ -133,6 +143,11 @@
 "ebitda": 1598,
 "pat": 1010,
 "rev": 6788
+},
+"oberoirealty": {
+"ebitda": 1019,
+"pat": 762,
+"rev": 1671
 },
 "orientelectric": {
 "ebitda": 57,
@@ -153,6 +168,11 @@
 "ebitda": null,
 "pat": 375,
 "rev": 2624
+},
+"punjabnationalbank": {
+"ebitda": null,
+"pat": 5918,
+"rev": 35267
 },
 "rblbank": {
 "ebitda": null,
