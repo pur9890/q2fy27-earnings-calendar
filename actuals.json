@@ -248,5 +248,10 @@
 "ebitda": 4863,
 "pat": 3200,
 "rev": 24753
+},
+"yesbank": {
+"ebitda": null,
+"pat": 1084,
+"rev": 8650
 }
 }
