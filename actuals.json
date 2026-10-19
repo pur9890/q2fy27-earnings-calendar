@@ -99,6 +99,11 @@
 "pat": 522,
 "rev": 24437
 },
+"hindustanzinc": {
+"ebitda": 9248,
+"pat": 6412,
+"rev": 15093
+},
 "icicibank": {
 "ebitda": null,
 "pat": 17389,
@@ -178,6 +183,11 @@
 "ebitda": 633,
 "pat": 352,
 "rev": 4664
+},
+"piramalfinance": {
+"ebitda": 2369,
+"pat": 545,
+"rev": 3659
 },
 "polycabindia": {
 "ebitda": 1422,
