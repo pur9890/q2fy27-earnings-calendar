@@ -24,6 +24,11 @@
 "pat": 7666,
 "rev": 38087
 },
+"bajajfinance": {
+"ebitda": null,
+"pat": 6367,
+"rev": 24546
+},
 "bajajhousing": {
 "ebitda": null,
 "pat": 757,
@@ -213,6 +218,11 @@
 "ebitda": 196,
 "pat": 3,
 "rev": 1366
+},
+"sobha": {
+"ebitda": 69,
+"pat": 33,
+"rev": 967
 },
 "tatacomm": {
 "ebitda": 1422,
