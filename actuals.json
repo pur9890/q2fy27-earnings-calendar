@@ -169,6 +169,11 @@
 "pat": 788,
 "rev": 3235
 },
+"keiindustries": {
+"ebitda": 377,
+"pat": 262,
+"rev": 3776
+},
 "landtfinance": {
 "ebitda": null,
 "pat": 973,
@@ -183,6 +188,11 @@
 "ebitda": 2093,
 "pat": 1380,
 "rev": 11808
+},
+"mandmfinancial": {
+"ebitda": null,
+"pat": 911,
+"rev": 5936
 },
 "metrobrands": {
 "ebitda": 197,
