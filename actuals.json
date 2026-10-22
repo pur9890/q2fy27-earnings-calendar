@@ -69,6 +69,11 @@
 "pat": 112,
 "rev": 4762
 },
+"colgate": {
+"ebitda": 473,
+"pat": 342,
+"rev": 1706
+},
 "cyientdlm": {
 "ebitda": 34,
 "pat": 34,
@@ -124,6 +129,11 @@
 "pat": 6412,
 "rev": 15093
 },
+"hpcl": {
+"ebitda": 9048,
+"pat": 3625,
+"rev": 134407
+},
 "icicibank": {
 "ebitda": null,
 "pat": 17389,
@@ -158,6 +168,11 @@
 "ebitda": 706,
 "pat": 380,
 "rev": 2484
+},
+"jindalstainless": {
+"ebitda": 1415,
+"pat": 898,
+"rev": 12874
 },
 "jiofinancial": {
 "ebitda": 1078,
@@ -263,6 +278,11 @@
 "ebitda": 946,
 "pat": 509,
 "rev": 4904
+},
+"swiggy": {
+"ebitda": -772,
+"pat": -922,
+"rev": 7571
 },
 "tatacomm": {
 "ebitda": 1422,
