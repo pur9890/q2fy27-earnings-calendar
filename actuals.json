@@ -224,6 +224,11 @@
 "pat": 1380,
 "rev": 11808
 },
+"mahindralifespace": {
+"ebitda": -55,
+"pat": 16,
+"rev": 32
+},
 "mandmfinancial": {
 "ebitda": null,
 "pat": 911,
@@ -278,6 +283,11 @@
 "ebitda": null,
 "pat": 498,
 "rev": 4322
+},
+"sapphirefoods": {
+"ebitda": 127,
+"pat": -2,
+"rev": 888
 },
 "shoppersstop": {
 "ebitda": 196,
