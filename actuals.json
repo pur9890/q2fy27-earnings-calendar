@@ -244,6 +244,11 @@
 "pat": 1010,
 "rev": 6788
 },
+"nuvocovistascorp": {
+"ebitda": 408,
+"pat": 65,
+"rev": 2790
+},
 "oberoirealty": {
 "ebitda": 1019,
 "pat": 762,
@@ -283,6 +288,11 @@
 "ebitda": null,
 "pat": 498,
 "rev": 4322
+},
+"sagility": {
+"ebitda": 512,
+"pat": 284,
+"rev": 2032
 },
 "sapphirefoods": {
 "ebitda": 127,
