@@ -69,10 +69,25 @@
 "pat": 112,
 "rev": 4762
 },
+"cieautomotive": {
+"ebitda": 374,
+"pat": 244,
+"rev": 2633
+},
 "colgate": {
 "ebitda": 473,
 "pat": 342,
 "rev": 1706
+},
+"creditaccess": {
+"ebitda": null,
+"pat": 502,
+"rev": 1904
+},
+"cyient": {
+"ebitda": 309,
+"pat": 132,
+"rev": 2235
 },
 "cyientdlm": {
 "ebitda": 34,
