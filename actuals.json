@@ -279,10 +279,20 @@
 "pat": 16,
 "rev": 32
 },
+"mahindralogistics": {
+"ebitda": 124,
+"pat": 29,
+"rev": 2095
+},
 "mandmfinancial": {
 "ebitda": null,
 "pat": 911,
 "rev": 5936
+},
+"mastek": {
+"ebitda": 146,
+"pat": 106,
+"rev": 1019
 },
 "metrobrands": {
 "ebitda": 197,
