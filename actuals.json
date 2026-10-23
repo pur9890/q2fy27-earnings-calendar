@@ -109,10 +109,20 @@
 "pat": 34,
 "rev": 393
 },
+"dcbbank": {
+"ebitda": null,
+"pat": 236,
+"rev": 2050
+},
 "dlf": {
 "ebitda": 23,
 "pat": 1301,
 "rev": 1261
+},
+"drreddyslabs": {
+"ebitda": 1723,
+"pat": 913,
+"rev": 8698
 },
 "eternal": {
 "ebitda": 752,
@@ -408,6 +418,11 @@
 "ebitda": 85,
 "pat": 66,
 "rev": 120
+},
+"torrentpharma": {
+"ebitda": 1666,
+"pat": 534,
+"rev": 4979
 },
 "ujjivansmallfinancebank": {
 "ebitda": null,
