@@ -189,10 +189,20 @@
 "pat": 380,
 "rev": 2484
 },
+"infosys": {
+"ebitda": 11689,
+"pat": 7838,
+"rev": 49244
+},
 "jindalstainless": {
 "ebitda": 1415,
 "pat": 898,
 "rev": 12874
+},
+"jindalsteel": {
+"ebitda": 2571,
+"pat": 771,
+"rev": 16679
 },
 "jiofinancial": {
 "ebitda": 1078,
@@ -343,6 +353,11 @@
 "ebitda": 231,
 "pat": 170,
 "rev": 1056
+},
+"tatamotorscv": {
+"ebitda": 2648,
+"pat": 1254,
+"rev": 25338
 },
 "tatatechnologies": {
 "ebitda": 181,
