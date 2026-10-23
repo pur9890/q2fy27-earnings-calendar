@@ -79,6 +79,11 @@
 "pat": 244,
 "rev": 2633
 },
+"coforge": {
+"ebitda": 1223,
+"pat": 605,
+"rev": 6171
+},
 "colgate": {
 "ebitda": 473,
 "pat": 342,
@@ -188,6 +193,11 @@
 "ebitda": 706,
 "pat": 380,
 "rev": 2484
+},
+"indusindbank": {
+"ebitda": null,
+"pat": 1242,
+"rev": 11796
 },
 "infosys": {
 "ebitda": 11689,
