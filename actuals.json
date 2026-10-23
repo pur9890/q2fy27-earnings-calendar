@@ -49,6 +49,11 @@
 "pat": 592,
 "rev": 918
 },
+"bpcl": {
+"ebitda": 8973,
+"pat": 4863,
+"rev": 149080
+},
 "canarabank": {
 "ebitda": null,
 "pat": 5383,
@@ -453,6 +458,11 @@
 "ebitda": -196,
 "pat": -182,
 "rev": 537
+},
+"utiamc": {
+"ebitda": 191,
+"pat": 132,
+"rev": 415
 },
 "vishalmegamart": {
 "ebitda": 412,
