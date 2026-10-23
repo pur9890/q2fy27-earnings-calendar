@@ -194,6 +194,11 @@
 "pat": 340,
 "rev": 1699
 },
+"jswsteel": {
+"ebitda": 10120,
+"pat": 5359,
+"rev": 54486
+},
 "justdial": {
 "ebitda": 91,
 "pat": 108,
@@ -303,6 +308,11 @@
 "ebitda": 196,
 "pat": 3,
 "rev": 1366
+},
+"shriramfinance": {
+"ebitda": null,
+"pat": 3684,
+"rev": 13792
 },
 "sobha": {
 "ebitda": 69,
