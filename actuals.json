@@ -119,6 +119,11 @@
 "pat": 1568,
 "rev": 8383
 },
+"godrejproperties": {
+"ebitda": -469,
+"pat": 145,
+"rev": 1935
+},
 "havellsindia": {
 "ebitda": 573,
 "pat": 349,
@@ -328,6 +333,11 @@
 "ebitda": 127,
 "pat": -2,
 "rev": 888
+},
+"sbicards": {
+"ebitda": null,
+"pat": 778,
+"rev": 5141
 },
 "shoppersstop": {
 "ebitda": 196,
