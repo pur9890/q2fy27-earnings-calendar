@@ -19,6 +19,11 @@
 "pat": 159,
 "rev": 1877
 },
+"ausmallfinance": {
+"ebitda": null,
+"pat": 858,
+"rev": 5612
+},
 "avenuesupermarts": {
 "ebitda": 1393,
 "pat": 743,
@@ -68,6 +73,11 @@
 "ebitda": null,
 "pat": 275,
 "rev": 1131
+},
+"castrolindia": {
+"ebitda": 262,
+"pat": 176,
+"rev": 1735
 },
 "cclproductsindia": {
 "ebitda": 212,
