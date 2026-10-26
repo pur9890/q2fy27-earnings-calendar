@@ -4,6 +4,11 @@
 "pat": 300,
 "rev": 1144
 },
+"aequs": {
+"ebitda": -4,
+"pat": 2,
+"rev": 36
+},
 "anandrathiwealth": {
 "ebitda": 117,
 "pat": 89,
@@ -148,6 +153,11 @@
 "ebitda": 1723,
 "pat": 913,
 "rev": 8698
+},
+"erislifescience": {
+"ebitda": 308,
+"pat": 187,
+"rev": 892
 },
 "eternal": {
 "ebitda": 752,
