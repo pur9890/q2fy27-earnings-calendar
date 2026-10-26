@@ -404,6 +404,11 @@
 "pat": 498,
 "rev": 4322
 },
+"rec": {
+"ebitda": null,
+"pat": 3478,
+"rev": 15000
+},
 "sagility": {
 "ebitda": 512,
 "pat": 284,
@@ -438,6 +443,11 @@
 "ebitda": 69,
 "pat": 33,
 "rev": 967
+},
+"sonablwprecis": {
+"ebitda": 346,
+"pat": 223,
+"rev": 1536
 },
 "srf": {
 "ebitda": 946,
