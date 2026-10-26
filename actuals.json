@@ -14,6 +14,11 @@
 "pat": 919,
 "rev": 825
 },
+"aegislogistics": {
+"ebitda": 434,
+"pat": 320,
+"rev": 2213
+},
 "aequs": {
 "ebitda": -4,
 "pat": 2,
@@ -324,6 +329,11 @@
 "pat": 262,
 "rev": 3776
 },
+"kfintechnologies": {
+"ebitda": 161,
+"pat": 100,
+"rev": 402
+},
 "kotakmahindrabank": {
 "ebitda": null,
 "pat": 5645,
@@ -333,6 +343,11 @@
 "ebitda": null,
 "pat": 973,
 "rev": 5484
+},
+"leapindia": {
+"ebitda": 105,
+"pat": 18,
+"rev": 211
 },
 "leelapalaceshotelsandresorts": {
 "ebitda": 176,
@@ -478,6 +493,11 @@
 "ebitda": 946,
 "pat": 509,
 "rev": 4904
+},
+"sunteckrealty": {
+"ebitda": 89,
+"pat": 57,
+"rev": 321
 },
 "supremeinds": {
 "ebitda": 431,
