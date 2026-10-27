@@ -9,6 +9,11 @@
 "pat": 182,
 "rev": 736
 },
+"acc": {
+"ebitda": 401,
+"pat": 93,
+"rev": 5689
+},
 "adityabirlarealest": {
 "ebitda": 158,
 "pat": 919,
@@ -23,6 +28,11 @@
 "ebitda": -4,
 "pat": 2,
 "rev": 36
+},
+"alliedblendersanddistillers": {
+"ebitda": 139,
+"pat": 69,
+"rev": 1148
 },
 "anandrathiwealth": {
 "ebitda": 117,
@@ -459,6 +469,11 @@
 "pat": 545,
 "rev": 3659
 },
+"piramalpharma": {
+"ebitda": 349,
+"pat": 5,
+"rev": 2617
+},
 "polycabindia": {
 "ebitda": 1422,
 "pat": 990,
@@ -493,6 +508,11 @@
 "ebitda": 512,
 "pat": 284,
 "rev": 2032
+},
+"sail": {
+"ebitda": 4216,
+"pat": 1750,
+"rev": 31998
 },
 "sapphirefoods": {
 "ebitda": 127,
