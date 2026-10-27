@@ -69,6 +69,11 @@
 "pat": 87,
 "rev": 514
 },
+"bajajauto": {
+"ebitda": 4896,
+"pat": 3384,
+"rev": 25126
+},
 "bajajfinance": {
 "ebitda": null,
 "pat": 6367,
@@ -378,6 +383,11 @@
 "ebitda": 1171,
 "pat": 716,
 "rev": 4338
+},
+"marutisuzuki": {
+"ebitda": 4764,
+"pat": 2466,
+"rev": 53356
 },
 "mastek": {
 "ebitda": 146,
