@@ -354,6 +354,11 @@
 "pat": 973,
 "rev": 5484
 },
+"larsenandtoubro": {
+"ebitda": 8814,
+"pat": 5949,
+"rev": 78750
+},
 "leapindia": {
 "ebitda": 105,
 "pat": 18,
@@ -523,6 +528,11 @@
 "ebitda": -772,
 "pat": -922,
 "rev": 7571
+},
+"tatacapital": {
+"ebitda": null,
+"pat": 1832,
+"rev": 9342
 },
 "tatacomm": {
 "ebitda": 1422,
