@@ -214,6 +214,11 @@
 "pat": 145,
 "rev": 1935
 },
+"gravitaindia": {
+"ebitda": 134,
+"pat": 102,
+"rev": 1427
+},
 "havellsindia": {
 "ebitda": 573,
 "pat": 349,
@@ -283,6 +288,11 @@
 "ebitda": 144,
 "pat": 39,
 "rev": 1142
+},
+"indiamartinter": {
+"ebitda": 144,
+"pat": 91,
+"rev": 429
 },
 "indianbank": {
 "ebitda": null,
@@ -438,6 +448,11 @@
 "ebitda": 135,
 "pat": 100,
 "rev": 11601
+},
+"medplushealthservices": {
+"ebitda": 170,
+"pat": 56,
+"rev": 2037
 },
 "metrobrands": {
 "ebitda": 197,
@@ -653,6 +668,11 @@
 "ebitda": 1666,
 "pat": 534,
 "rev": 4979
+},
+"transportcorp": {
+"ebitda": 144,
+"pat": 117,
+"rev": 1388
 },
 "ujjivansmallfinancebank": {
 "ebitda": null,
