@@ -289,6 +289,11 @@
 "pat": 1242,
 "rev": 11796
 },
+"industowers": {
+"ebitda": 4590,
+"pat": 1793,
+"rev": 8516
+},
 "infosys": {
 "ebitda": 11689,
 "pat": 7838,
@@ -493,6 +498,11 @@
 "ebitda": null,
 "pat": 778,
 "rev": 5141
+},
+"sbilifeinsurance": {
+"ebitda": 562,
+"pat": 549,
+"rev": 24620
 },
 "shoppersstop": {
 "ebitda": 196,
