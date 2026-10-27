@@ -329,6 +329,11 @@
 "pat": 169,
 "rev": 3733
 },
+"jswcement": {
+"ebitda": 278,
+"pat": 78,
+"rev": 1912
+},
 "jswinfra": {
 "ebitda": 674,
 "pat": 328,
@@ -388,6 +393,11 @@
 "ebitda": 176,
 "pat": 95,
 "rev": 412
+},
+"ltfoods": {
+"ebitda": 339,
+"pat": 180,
+"rev": 3234
 },
 "ltm": {
 "ebitda": 2093,
@@ -463,6 +473,11 @@
 "ebitda": 633,
 "pat": 352,
 "rev": 4664
+},
+"pgelectroplast": {
+"ebitda": 60,
+"pat": 14,
+"rev": 934
 },
 "piramalfinance": {
 "ebitda": 2369,
@@ -583,6 +598,11 @@
 "ebitda": -772,
 "pat": -922,
 "rev": 7571
+},
+"syngeneinternational": {
+"ebitda": 147,
+"pat": 32,
+"rev": 833
 },
 "tatacapital": {
 "ebitda": null,
