@@ -414,6 +414,11 @@
 "pat": 106,
 "rev": 1019
 },
+"maxfinancial": {
+"ebitda": 135,
+"pat": 100,
+"rev": 11601
+},
 "metrobrands": {
 "ebitda": 197,
 "pat": 77,
