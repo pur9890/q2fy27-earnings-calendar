@@ -514,6 +514,11 @@
 "pat": 549,
 "rev": 24620
 },
+"schaefflerindia": {
+"ebitda": 537,
+"pat": 349,
+"rev": 3089
+},
 "shoppersstop": {
 "ebitda": 196,
 "pat": 3,
@@ -538,6 +543,11 @@
 "ebitda": 946,
 "pat": 509,
 "rev": 4904
+},
+"starhealth": {
+"ebitda": 358,
+"pat": 265,
+"rev": 5341
 },
 "sunteckrealty": {
 "ebitda": 89,
@@ -619,6 +629,11 @@
 "pat": 5781,
 "rev": 28378
 },
+"unitedbreweries": {
+"ebitda": 259,
+"pat": 135,
+"rev": 2537
+},
 "urbancompany": {
 "ebitda": -196,
 "pat": -182,
@@ -633,6 +648,11 @@
 "ebitda": 412,
 "pat": 158,
 "rev": 3399
+},
+"waareeenergies": {
+"ebitda": 934,
+"pat": 671,
+"rev": 4578
 },
 "westlifefoodworld": {
 "ebitda": 93,
