@@ -484,6 +484,11 @@
 "pat": 56,
 "rev": 2037
 },
+"meesho": {
+"ebitda": -229,
+"pat": -132,
+"rev": 4132
+},
 "metrobrands": {
 "ebitda": 197,
 "pat": 77,
@@ -728,6 +733,11 @@
 "ebitda": 259,
 "pat": 135,
 "rev": 2537
+},
+"unitedspirits": {
+"ebitda": 642,
+"pat": 428,
+"rev": 3264
 },
 "urbancompany": {
 "ebitda": -196,
