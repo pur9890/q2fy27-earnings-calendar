@@ -269,6 +269,11 @@
 "pat": 3625,
 "rev": 134407
 },
+"hyundaimotor": {
+"ebitda": 1974,
+"pat": 1196,
+"rev": 20696
+},
 "icicibank": {
 "ebitda": null,
 "pat": 17389,
@@ -683,6 +688,11 @@
 "ebitda": 144,
 "pat": 117,
 "rev": 1388
+},
+"tvsmotor": {
+"ebitda": 2721,
+"pat": 1219,
+"rev": 19474
 },
 "ujjivansmallfinancebank": {
 "ebitda": null,
