@@ -14,6 +14,11 @@
 "pat": 93,
 "rev": 5689
 },
+"acmesolar": {
+"ebitda": 753,
+"pat": 269,
+"rev": 887
+},
 "adaniports": {
 "ebitda": 6807,
 "pat": 3682,
@@ -283,6 +288,11 @@
 "ebitda": 1997,
 "pat": 1861,
 "rev": 14970
+},
+"hexawaretech": {
+"ebitda": 566,
+"pat": 429,
+"rev": 3933
 },
 "hindunilever": {
 "ebitda": 4089,
@@ -694,6 +704,11 @@
 "pat": 265,
 "rev": 5341
 },
+"sundramfasteners": {
+"ebitda": 296,
+"pat": 173,
+"rev": 1984
+},
 "sunteckrealty": {
 "ebitda": 89,
 "pat": 57,
@@ -838,5 +853,10 @@
 "ebitda": null,
 "pat": 1084,
 "rev": 8650
+},
+"zensartech": {
+"ebitda": 250,
+"pat": 190,
+"rev": 1585
 }
 }
