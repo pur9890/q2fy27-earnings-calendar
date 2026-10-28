@@ -99,6 +99,11 @@
 "pat": 757,
 "rev": 3251
 },
+"bandhanbank": {
+"ebitda": null,
+"pat": 622,
+"rev": 5754
+},
 "billionbrains": {
 "ebitda": 596,
 "pat": 592,
@@ -588,6 +593,11 @@
 "ebitda": null,
 "pat": 3478,
 "rev": 15000
+},
+"rrkabel": {
+"ebitda": 284,
+"pat": 181,
+"rev": 3284
 },
 "sagility": {
 "ebitda": 512,
