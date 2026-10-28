@@ -104,6 +104,11 @@
 "pat": 3384,
 "rev": 25126
 },
+"bajajelectricals": {
+"ebitda": 67,
+"pat": 26,
+"rev": 1123
+},
 "bajajfinance": {
 "ebitda": null,
 "pat": 6367,
@@ -594,6 +599,11 @@
 "pat": 617,
 "rev": 2423
 },
+"pncinfratech": {
+"ebitda": 279,
+"pat": 115,
+"rev": 1322
+},
 "polycabindia": {
 "ebitda": 1422,
 "pat": 990,
@@ -623,6 +633,11 @@
 "ebitda": 357,
 "pat": 232,
 "rev": 1745
+},
+"raymondlifestyle": {
+"ebitda": 220,
+"pat": 68,
+"rev": 2075
 },
 "rblbank": {
 "ebitda": null,
