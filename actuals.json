@@ -149,6 +149,11 @@
 "pat": 4863,
 "rev": 149080
 },
+"brigadeenterpr": {
+"ebitda": 424,
+"pat": 219,
+"rev": 1196
+},
 "canarabank": {
 "ebitda": null,
 "pat": 5383,
@@ -199,6 +204,11 @@
 "pat": 416,
 "rev": 2092
 },
+"coalindia": {
+"ebitda": 8499,
+"pat": 6547,
+"rev": 44179
+},
 "coforge": {
 "ebitda": 1223,
 "pat": 605,
@@ -233,6 +243,11 @@
 "ebitda": null,
 "pat": 236,
 "rev": 2050
+},
+"deepaknitrite": {
+"ebitda": 627,
+"pat": 398,
+"rev": 3076
 },
 "dlf": {
 "ebitda": 23,
@@ -838,6 +853,11 @@
 "ebitda": 2878,
 "pat": 1610,
 "rev": 16180
+},
+"timken": {
+"ebitda": 184,
+"pat": 121,
+"rev": 986
 },
 "tipsmusic": {
 "ebitda": 85,
