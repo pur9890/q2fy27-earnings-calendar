@@ -69,6 +69,11 @@
 "pat": 152,
 "rev": 2919
 },
+"asianpaints": {
+"ebitda": 1557,
+"pat": 1085,
+"rev": 9977
+},
 "atherenergy": {
 "ebitda": 11,
 "pat": 1,
@@ -384,6 +389,11 @@
 "pat": 7838,
 "rev": 49244
 },
+"interglobeaviation": {
+"ebitda": 1907,
+"pat": -1879,
+"rev": 23364
+},
 "jindalstainless": {
 "ebitda": 1415,
 "pat": 898,
@@ -473,6 +483,11 @@
 "ebitda": 8814,
 "pat": 5949,
 "rev": 78750
+},
+"lauruslabs": {
+"ebitda": 750,
+"pat": 436,
+"rev": 2206
 },
 "leapindia": {
 "ebitda": 105,
@@ -798,6 +813,11 @@
 "ebitda": 144,
 "pat": 117,
 "rev": 1388
+},
+"trent": {
+"ebitda": 1057,
+"pat": 468,
+"rev": 5873
 },
 "tvsmotor": {
 "ebitda": 2721,
