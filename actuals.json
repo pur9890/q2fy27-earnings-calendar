@@ -154,6 +154,11 @@
 "pat": 219,
 "rev": 1196
 },
+"camsservices": {
+"ebitda": 190,
+"pat": 131,
+"rev": 414
+},
 "canarabank": {
 "ebitda": null,
 "pat": 5383,
@@ -629,6 +634,11 @@
 "pat": 27,
 "rev": 879
 },
+"paradeepphosphates": {
+"ebitda": 413,
+"pat": 121,
+"rev": 7364
+},
 "persistentsystems": {
 "ebitda": 633,
 "pat": 352,
@@ -753,6 +763,11 @@
 "ebitda": 537,
 "pat": 349,
 "rev": 3089
+},
+"shailyengineering": {
+"ebitda": 97,
+"pat": 61,
+"rev": 320
 },
 "shoppersstop": {
 "ebitda": 196,
