@@ -264,6 +264,11 @@
 "pat": 913,
 "rev": 8698
 },
+"equitassmallfin": {
+"ebitda": null,
+"pat": 218,
+"rev": 2066
+},
 "erislifescience": {
 "ebitda": 308,
 "pat": 187,
@@ -288,6 +293,11 @@
 "ebitda": null,
 "pat": 299,
 "rev": 858
+},
+"garwaretechnicalfibres": {
+"ebitda": 80,
+"pat": 59,
+"rev": 463
 },
 "godrejconsumer": {
 "ebitda": 820,
@@ -733,6 +743,11 @@
 "ebitda": null,
 "pat": 3478,
 "rev": 15000
+},
+"restaurantbrands": {
+"ebitda": 110,
+"pat": -24,
+"rev": 845
 },
 "rrkabel": {
 "ebitda": 284,
