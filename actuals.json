@@ -274,6 +274,11 @@
 "pat": 102,
 "rev": 1427
 },
+"grindwellnorton": {
+"ebitda": 166,
+"pat": 133,
+"rev": 884
+},
 "havellsindia": {
 "ebitda": 573,
 "pat": 349,
@@ -568,6 +573,11 @@
 "ebitda": 197,
 "pat": 77,
 "rev": 730
+},
+"mtartech": {
+"ebitda": 99,
+"pat": 60,
+"rev": 407
 },
 "nestle": {
 "ebitda": 1598,
