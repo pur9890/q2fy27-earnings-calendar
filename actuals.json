@@ -409,6 +409,11 @@
 "pat": 3541,
 "rev": 19149
 },
+"indianenergyexch": {
+"ebitda": 141,
+"pat": 139,
+"rev": 167
+},
 "indianhotels": {
 "ebitda": 706,
 "pat": 380,
@@ -679,6 +684,11 @@
 "pat": 115,
 "rev": 1322
 },
+"pngadgiljewellers": {
+"ebitda": 207,
+"pat": 121,
+"rev": 2666
+},
 "polycabindia": {
 "ebitda": 1422,
 "pat": 990,
@@ -943,6 +953,11 @@
 "ebitda": 412,
 "pat": 158,
 "rev": 3399
+},
+"voltamptransformers": {
+"ebitda": 106,
+"pat": 85,
+"rev": 684
 },
 "waareeenergies": {
 "ebitda": 934,
