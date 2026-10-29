@@ -44,6 +44,11 @@
 "pat": 69,
 "rev": 1148
 },
+"ambujacements": {
+"ebitda": 1271,
+"pat": 236,
+"rev": 9197
+},
 "anandrathiwealth": {
 "ebitda": 117,
 "pat": 89,
@@ -253,6 +258,11 @@
 "ebitda": null,
 "pat": 299,
 "rev": 858
+},
+"godrejconsumer": {
+"ebitda": 820,
+"pat": 523,
+"rev": 4413
 },
 "godrejproperties": {
 "ebitda": -469,
@@ -748,6 +758,11 @@
 "ebitda": 431,
 "pat": 262,
 "rev": 3361
+},
+"suzlonenergy": {
+"ebitda": 720,
+"pat": 394,
+"rev": 4876
 },
 "swiggy": {
 "ebitda": -772,
