@@ -139,6 +139,11 @@
 "pat": 592,
 "rev": 918
 },
+"bluestar": {
+"ebitda": 203,
+"pat": 124,
+"rev": 2931
+},
 "bpcl": {
 "ebitda": 8973,
 "pat": 4863,
@@ -253,6 +258,11 @@
 "ebitda": null,
 "pat": 1568,
 "rev": 8383
+},
+"firstsourcesolutions": {
+"ebitda": 471,
+"pat": 232,
+"rev": 2826
 },
 "fivestarbusiness": {
 "ebitda": null,
