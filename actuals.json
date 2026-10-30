@@ -134,6 +134,11 @@
 "pat": 622,
 "rev": 5754
 },
+"bankofbaroda": {
+"ebitda": null,
+"pat": 6792,
+"rev": 37021
+},
 "billionbrains": {
 "ebitda": 596,
 "pat": 592,
@@ -468,6 +473,11 @@
 "ebitda": 1907,
 "pat": -1879,
 "rev": 23364
+},
+"ioc": {
+"ebitda": 33797,
+"pat": 22503,
+"rev": 253967
 },
 "jindalstainless": {
 "ebitda": 1415,
