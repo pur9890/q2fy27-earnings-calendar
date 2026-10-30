@@ -719,6 +719,11 @@
 "pat": 14,
 "rev": 934
 },
+"phoenixmills": {
+"ebitda": 710,
+"pat": 427,
+"rev": 1153
+},
 "pidiliteinds": {
 "ebitda": 877,
 "pat": 626,
@@ -798,6 +803,11 @@
 "ebitda": null,
 "pat": 3478,
 "rev": 15000
+},
+"relianceinds": {
+"ebitda": 56616,
+"pat": 29550,
+"rev": 330601
 },
 "restaurantbrands": {
 "ebitda": 110,
