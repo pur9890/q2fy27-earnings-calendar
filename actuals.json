@@ -44,6 +44,11 @@
 "pat": 2,
 "rev": 36
 },
+"aether": {
+"ebitda": 110,
+"pat": 68,
+"rev": 347
+},
 "ajantapharma": {
 "ebitda": 548,
 "pat": 388,
@@ -619,6 +624,11 @@
 "pat": 1507,
 "rev": 7194
 },
+"lodhadevelopers": {
+"ebitda": 1488,
+"pat": 1014,
+"rev": 4467
+},
 "ltfoods": {
 "ebitda": 339,
 "pat": 180,
@@ -929,6 +939,11 @@
 "pat": 57,
 "rev": 321
 },
+"suntv": {
+"ebitda": 447,
+"pat": 365,
+"rev": 940
+},
 "supremeinds": {
 "ebitda": 431,
 "pat": 262,
@@ -1083,6 +1098,11 @@
 "ebitda": 934,
 "pat": 671,
 "rev": 4578
+},
+"welspunliving": {
+"ebitda": 338,
+"pat": 170,
+"rev": 2838
 },
 "westlifefoodworld": {
 "ebitda": 93,
