@@ -329,6 +329,11 @@
 "pat": 1568,
 "rev": 8383
 },
+"finolexindustries": {
+"ebitda": 124,
+"pat": 115,
+"rev": 1094
+},
 "firstsourcesolutions": {
 "ebitda": 471,
 "pat": 232,
@@ -518,6 +523,11 @@
 "ebitda": 11689,
 "pat": 7838,
 "rev": 49244
+},
+"intellectdesignarena": {
+"ebitda": 166,
+"pat": 104,
+"rev": 847
 },
 "interglobeaviation": {
 "ebitda": 1907,
@@ -1104,6 +1114,11 @@
 "pat": 6202,
 "rev": 26356
 },
+"vinatiorganics": {
+"ebitda": 126,
+"pat": 78,
+"rev": 680
+},
 "vishalmegamart": {
 "ebitda": 412,
 "pat": 158,
@@ -1138,6 +1153,11 @@
 "ebitda": null,
 "pat": 1084,
 "rev": 8650
+},
+"zeeentertainment": {
+"ebitda": 86,
+"pat": 46,
+"rev": 2225
 },
 "zensartech": {
 "ebitda": 250,
