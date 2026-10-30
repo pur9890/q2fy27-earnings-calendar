@@ -274,6 +274,11 @@
 "pat": 398,
 "rev": 3076
 },
+"delhivery": {
+"ebitda": 204,
+"pat": 41,
+"rev": 3066
+},
 "dixontech": {
 "ebitda": 597,
 "pat": 411,
@@ -923,6 +928,11 @@
 "ebitda": 147,
 "pat": 32,
 "rev": 833
+},
+"syrmasgstech": {
+"ebitda": 193,
+"pat": 124,
+"rev": 1990
 },
 "tatacapital": {
 "ebitda": null,
