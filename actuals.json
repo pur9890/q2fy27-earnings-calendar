@@ -499,6 +499,11 @@
 "pat": 380,
 "rev": 2484
 },
+"indigopaints": {
+"ebitda": 31,
+"pat": 13,
+"rev": 359
+},
 "indraprasthagas": {
 "ebitda": -32,
 "pat": 24,
@@ -829,6 +834,11 @@
 "pat": 375,
 "rev": 2624
 },
+"prataapsnacks": {
+"ebitda": 13,
+"pat": -3,
+"rev": 544
+},
 "prudentcorp": {
 "ebitda": 103,
 "pat": 72,
@@ -843,6 +853,11 @@
 "ebitda": 769,
 "pat": 263,
 "rev": 2105
+},
+"quesscorp": {
+"ebitda": 86,
+"pat": 75,
+"rev": 4396
 },
 "radicokhaitan": {
 "ebitda": 357,
@@ -1093,6 +1108,11 @@
 "ebitda": 642,
 "pat": 428,
 "rev": 3264
+},
+"updaterservices": {
+"ebitda": 43,
+"pat": 32,
+"rev": 812
 },
 "urbancompany": {
 "ebitda": -196,
