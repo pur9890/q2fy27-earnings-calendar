@@ -4,6 +4,11 @@
 "pat": 300,
 "rev": 1144
 },
+"aartiindustries": {
+"ebitda": 410,
+"pat": 168,
+"rev": 3669
+},
 "aavasfinanciers": {
 "ebitda": null,
 "pat": 182,
@@ -48,6 +53,11 @@
 "ebitda": 110,
 "pat": 68,
 "rev": 347
+},
+"affleindia": {
+"ebitda": 181,
+"pat": 130,
+"rev": 784
 },
 "ajantapharma": {
 "ebitda": 548,
@@ -483,6 +493,11 @@
 "ebitda": 706,
 "pat": 380,
 "rev": 2484
+},
+"indraprasthagas": {
+"ebitda": -32,
+"pat": 24,
+"rev": 5118
 },
 "indusindbank": {
 "ebitda": null,
@@ -1008,6 +1023,11 @@
 "ebitda": 2878,
 "pat": 1610,
 "rev": 16180
+},
+"tilaknagarindustries": {
+"ebitda": 148,
+"pat": 22,
+"rev": 1035
 },
 "timken": {
 "ebitda": 184,
