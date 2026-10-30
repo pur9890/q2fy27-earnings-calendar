@@ -144,6 +144,11 @@
 "pat": 6792,
 "rev": 37021
 },
+"bharatelectronics": {
+"ebitda": 2041,
+"pat": 1540,
+"rev": 7328
+},
 "billionbrains": {
 "ebitda": 596,
 "pat": 592,
@@ -263,6 +268,11 @@
 "ebitda": 627,
 "pat": 398,
 "rev": 3076
+},
+"dixontech": {
+"ebitda": 597,
+"pat": 411,
+"rev": 21794
 },
 "dlf": {
 "ebitda": 23,
