@@ -324,6 +324,11 @@
 "pat": 299,
 "rev": 858
 },
+"gabrielindia": {
+"ebitda": 141,
+"pat": 124,
+"rev": 1608
+},
 "gail": {
 "ebitda": 6992,
 "pat": 4724,
@@ -609,6 +614,11 @@
 "pat": 95,
 "rev": 412
 },
+"lichousingfin": {
+"ebitda": null,
+"pat": 1507,
+"rev": 7194
+},
 "ltfoods": {
 "ebitda": 339,
 "pat": 180,
@@ -679,6 +689,11 @@
 "pat": 60,
 "rev": 407
 },
+"narayanahrudayalaya": {
+"ebitda": 551,
+"pat": 301,
+"rev": 2844
+},
 "navinfluorine": {
 "ebitda": 407,
 "pat": 269,
@@ -713,6 +728,11 @@
 "ebitda": 413,
 "pat": 121,
 "rev": 7364
+},
+"pbfintech": {
+"ebitda": 161,
+"pat": 192,
+"rev": 2178
 },
 "persistentsystems": {
 "ebitda": 633,
