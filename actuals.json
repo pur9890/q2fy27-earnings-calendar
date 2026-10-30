@@ -24,6 +24,11 @@
 "pat": 3682,
 "rev": 11340
 },
+"adityabirlacapital": {
+"ebitda": null,
+"pat": 1353,
+"rev": 14003
+},
 "adityabirlarealest": {
 "ebitda": 158,
 "pat": 919,
@@ -628,6 +633,11 @@
 "ebitda": 135,
 "pat": 100,
 "rev": 11601
+},
+"maxhealthcare": {
+"ebitda": 711,
+"pat": 414,
+"rev": 2569
 },
 "medplushealthservices": {
 "ebitda": 170,
