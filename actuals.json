@@ -109,6 +109,11 @@
 "pat": 1,
 "rev": 1464
 },
+"atlantaelectricals": {
+"ebitda": 60,
+"pat": 32,
+"rev": 390
+},
 "atul": {
 "ebitda": 247,
 "pat": 159,
@@ -739,6 +744,11 @@
 "pat": 60,
 "rev": 407
 },
+"muthootfinance": {
+"ebitda": null,
+"pat": 3278,
+"rev": 9998
+},
 "narayanahrudayalaya": {
 "ebitda": 551,
 "pat": 301,
@@ -758,6 +768,11 @@
 "ebitda": 109,
 "pat": 87,
 "rev": 422
+},
+"ntpc": {
+"ebitda": 15627,
+"pat": 7351,
+"rev": 54270
 },
 "nuvocovistascorp": {
 "ebitda": 408,
