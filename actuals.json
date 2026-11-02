@@ -874,6 +874,11 @@
 "pat": 192,
 "rev": 2178
 },
+"pcbl": {
+"ebitda": 294,
+"pat": 74,
+"rev": 2474
+},
 "persistentsystems": {
 "ebitda": 633,
 "pat": 352,
@@ -1198,6 +1203,11 @@
 "ebitda": 1057,
 "pat": 468,
 "rev": 5873
+},
+"trident": {
+"ebitda": 314,
+"pat": 176,
+"rev": 1719
 },
 "tvsmotor": {
 "ebitda": 2721,
