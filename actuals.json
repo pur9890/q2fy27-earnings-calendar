@@ -729,6 +729,11 @@
 "pat": 716,
 "rev": 4338
 },
+"marico": {
+"ebitda": 709,
+"pat": 558,
+"rev": 3897
+},
 "marutisuzuki": {
 "ebitda": 4764,
 "pat": 2466,
@@ -1178,6 +1183,11 @@
 "ebitda": 43,
 "pat": 32,
 "rev": 812
+},
+"upl": {
+"ebitda": 2068,
+"pat": 452,
+"rev": 11860
 },
 "urbancompany": {
 "ebitda": -196,
