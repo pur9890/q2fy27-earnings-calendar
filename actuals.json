@@ -74,6 +74,11 @@
 "pat": 69,
 "rev": 1148
 },
+"amararajaenergy": {
+"ebitda": 362,
+"pat": 152,
+"rev": 4109
+},
 "ambujacements": {
 "ebitda": 1271,
 "pat": 236,
@@ -609,6 +614,11 @@
 "pat": 22503,
 "rev": 253967
 },
+"itc": {
+"ebitda": 5645,
+"pat": 4229,
+"rev": 20269
+},
 "jindalstainless": {
 "ebitda": 1415,
 "pat": 898,
@@ -1143,6 +1153,11 @@
 "ebitda": 181,
 "pat": 146,
 "rev": 912
+},
+"tbotek": {
+"ebitda": 136,
+"pat": 76,
+"rev": 866
 },
 "tcs": {
 "ebitda": 18815,
