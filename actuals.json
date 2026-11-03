@@ -439,6 +439,11 @@
 "pat": 299,
 "rev": 858
 },
+"fractalanalytics": {
+"ebitda": 127,
+"pat": 79,
+"rev": 956
+},
 "gabrielindia": {
 "ebitda": 141,
 "pat": 124,
@@ -1064,6 +1069,11 @@
 "pat": 72,
 "rev": 389
 },
+"pspprojects": {
+"ebitda": 69,
+"pat": 30,
+"rev": 1113
+},
 "punjabnationalbank": {
 "ebitda": null,
 "pat": 5918,
@@ -1388,6 +1398,11 @@
 "ebitda": 9915,
 "pat": 6202,
 "rev": 26356
+},
+"ventivehospitality": {
+"ebitda": 208,
+"pat": 34,
+"rev": 551
 },
 "vinatiorganics": {
 "ebitda": 126,
