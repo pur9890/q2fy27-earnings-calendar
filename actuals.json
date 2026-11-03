@@ -379,6 +379,11 @@
 "pat": 913,
 "rev": 8698
 },
+"endurancetech": {
+"ebitda": 559,
+"pat": 274,
+"rev": 4786
+},
 "equitassmallfin": {
 "ebitda": null,
 "pat": 218,
@@ -633,6 +638,11 @@
 "ebitda": 11689,
 "pat": 7838,
 "rev": 49244
+},
+"inoxindia": {
+"ebitda": 89,
+"pat": 67,
+"rev": 456
 },
 "intellectdesignarena": {
 "ebitda": 166,
