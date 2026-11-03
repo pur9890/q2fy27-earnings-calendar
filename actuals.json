@@ -439,10 +439,20 @@
 "pat": 299,
 "rev": 858
 },
+"flairwritingindustries": {
+"ebitda": 51,
+"pat": 32,
+"rev": 340
+},
 "fractalanalytics": {
 "ebitda": 127,
 "pat": 79,
 "rev": 956
+},
+"fusionfinance": {
+"ebitda": null,
+"pat": 86,
+"rev": 486
 },
 "gabrielindia": {
 "ebitda": 141,
@@ -1363,6 +1373,11 @@
 "ebitda": 259,
 "pat": 135,
 "rev": 2537
+},
+"unitedfoodbrands": {
+"ebitda": 60,
+"pat": -6,
+"rev": 429
 },
 "unitedspirits": {
 "ebitda": 642,
