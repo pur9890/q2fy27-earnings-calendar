@@ -514,6 +514,11 @@
 "pat": 102,
 "rev": 1427
 },
+"greenpanelindustries": {
+"ebitda": 28,
+"pat": -1,
+"rev": 412
+},
 "greenplyindustries": {
 "ebitda": 83,
 "pat": 43,
@@ -814,6 +819,11 @@
 "pat": 436,
 "rev": 2206
 },
+"laxmidental": {
+"ebitda": 15,
+"pat": 10,
+"rev": 80
+},
 "leapindia": {
 "ebitda": 105,
 "pat": 18,
@@ -913,6 +923,11 @@
 "ebitda": 134,
 "pat": 75,
 "rev": 497
+},
+"moldtekpackaging": {
+"ebitda": 51,
+"pat": 21,
+"rev": 274
 },
 "mtartech": {
 "ebitda": 99,
