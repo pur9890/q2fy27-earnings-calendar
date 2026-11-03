@@ -464,6 +464,11 @@
 "pat": 133,
 "rev": 884
 },
+"gujaratfluorochemicals": {
+"ebitda": 473,
+"pat": 240,
+"rev": 1760
+},
 "havellsindia": {
 "ebitda": 573,
 "pat": 349,
@@ -1098,6 +1103,11 @@
 "ebitda": 358,
 "pat": 265,
 "rev": 5341
+},
+"statebank": {
+"ebitda": null,
+"pat": 26218,
+"rev": 141073
 },
 "sundramfasteners": {
 "ebitda": 296,
