@@ -564,6 +564,11 @@
 "pat": 219,
 "rev": 1469
 },
+"gmmpfaudler": {
+"ebitda": 110,
+"pat": 35,
+"rev": 1065
+},
 "gngelectronics": {
 "ebitda": 93,
 "pat": 56,
@@ -793,6 +798,11 @@
 "ebitda": 166,
 "pat": 104,
 "rev": 847
+},
+"interarchbuildingsolutions": {
+"ebitda": 42,
+"pat": 31,
+"rev": 505
 },
 "interglobeaviation": {
 "ebitda": 1907,
@@ -1364,6 +1374,11 @@
 "pat": 511,
 "rev": 5960
 },
+"sis": {
+"ebitda": 223,
+"pat": 111,
+"rev": 4816
+},
 "skfindia": {
 "ebitda": 57,
 "pat": 52,
@@ -1378,6 +1393,11 @@
 "ebitda": 69,
 "pat": 33,
 "rev": 967
+},
+"somanyceramics": {
+"ebitda": 100,
+"pat": 42,
+"rev": 861
 },
 "sonablwprecis": {
 "ebitda": 346,
