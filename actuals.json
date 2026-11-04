@@ -529,6 +529,11 @@
 "pat": 4724,
 "rev": 47139
 },
+"galaxysurfactants": {
+"ebitda": 190,
+"pat": 120,
+"rev": 1810
+},
 "ganeshaecosphere": {
 "ebitda": 60,
 "pat": 28,
@@ -723,6 +728,11 @@
 "ebitda": 31,
 "pat": 13,
 "rev": 359
+},
+"indocountinds": {
+"ebitda": 233,
+"pat": 132,
+"rev": 1673
 },
 "indraprasthagas": {
 "ebitda": -32,
@@ -1319,6 +1329,11 @@
 "pat": 52,
 "rev": 596
 },
+"skfindiaindustrial": {
+"ebitda": 101,
+"pat": 103,
+"rev": 1043
+},
 "sobha": {
 "ebitda": 69,
 "pat": 33,
@@ -1533,6 +1548,11 @@
 "ebitda": 191,
 "pat": 132,
 "rev": 415
+},
+"varrocengineering": {
+"ebitda": 257,
+"pat": 33,
+"rev": 2948
 },
 "varunbeverages": {
 "ebitda": 1424,
