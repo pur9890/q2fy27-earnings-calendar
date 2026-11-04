@@ -144,6 +144,11 @@
 "pat": 159,
 "rev": 1877
 },
+"aurobindopharma": {
+"ebitda": 2153,
+"pat": 1124,
+"rev": 10263
+},
 "ausmallfinance": {
 "ebitda": null,
 "pat": 858,
@@ -244,6 +249,11 @@
 "pat": 219,
 "rev": 1196
 },
+"bse": {
+"ebitda": 973,
+"pat": 808,
+"rev": 1433
+},
 "camsservices": {
 "ebitda": 190,
 "pat": 131,
@@ -343,6 +353,11 @@
 "ebitda": null,
 "pat": 502,
 "rev": 1904
+},
+"cumminsindia": {
+"ebitda": 506,
+"pat": 507,
+"rev": 3301
 },
 "cyient": {
 "ebitda": 309,
@@ -1069,6 +1084,11 @@
 "pat": 626,
 "rev": 4298
 },
+"piindustries": {
+"ebitda": 233,
+"pat": 122,
+"rev": 1702
+},
 "pinelabs": {
 "ebitda": 126,
 "pat": 39,
@@ -1118,6 +1138,11 @@
 "ebitda": 13,
 "pat": -3,
 "rev": 544
+},
+"premierenergies": {
+"ebitda": 736,
+"pat": 462,
+"rev": 2632
 },
 "princepipes": {
 "ebitda": 100,
