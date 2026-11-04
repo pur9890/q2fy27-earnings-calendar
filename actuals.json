@@ -59,6 +59,11 @@
 "pat": 68,
 "rev": 347
 },
+"afconsinfrastructure": {
+"ebitda": 92,
+"pat": 41,
+"rev": 2635
+},
 "affleindia": {
 "ebitda": 181,
 "pat": 130,
@@ -459,6 +464,11 @@
 "pat": 274,
 "rev": 4786
 },
+"epl": {
+"ebitda": 288,
+"pat": 111,
+"rev": 1567
+},
 "equitassmallfin": {
 "ebitda": null,
 "pat": 218,
@@ -599,6 +609,11 @@
 "pat": 133,
 "rev": 884
 },
+"grinfraproject": {
+"ebitda": 433,
+"pat": 290,
+"rev": 2325
+},
 "gskpharma": {
 "ebitda": 402,
 "pat": 336,
@@ -608,6 +623,11 @@
 "ebitda": 473,
 "pat": 240,
 "rev": 1760
+},
+"gujaratpipavavport": {
+"ebitda": 212,
+"pat": 153,
+"rev": 339
 },
 "havellsindia": {
 "ebitda": 573,
