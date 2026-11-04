@@ -344,6 +344,11 @@
 "pat": 34,
 "rev": 393
 },
+"dabur": {
+"ebitda": 632,
+"pat": 499,
+"rev": 3563
+},
 "dalmiabharat": {
 "ebitda": 493,
 "pat": -205,
@@ -833,6 +838,11 @@
 "ebitda": 176,
 "pat": 95,
 "rev": 412
+},
+"lenskartsolutions": {
+"ebitda": 622,
+"pat": 232,
+"rev": 2845
 },
 "lichousingfin": {
 "ebitda": null,
