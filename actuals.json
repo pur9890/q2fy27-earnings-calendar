@@ -114,6 +114,11 @@
 "pat": 382,
 "rev": 7002
 },
+"apollotyres": {
+"ebitda": 855,
+"pat": 292,
+"rev": 7968
+},
 "arvind": {
 "ebitda": 310,
 "pat": 152,
@@ -453,6 +458,11 @@
 "ebitda": 752,
 "pat": 125,
 "rev": 24138
+},
+"exideinds": {
+"ebitda": 562,
+"pat": 287,
+"rev": 5292
 },
 "federalbank": {
 "ebitda": null,
@@ -818,6 +828,16 @@
 "ebitda": 161,
 "pat": 100,
 "rev": 402
+},
+"kims": {
+"ebitda": 260,
+"pat": 75,
+"rev": 1344
+},
+"kirloskaroil": {
+"ebitda": 338,
+"pat": 130,
+"rev": 2284
 },
 "kotakmahindrabank": {
 "ebitda": null,
@@ -1193,6 +1213,11 @@
 "ebitda": null,
 "pat": 3478,
 "rev": 15000
+},
+"redington": {
+"ebitda": 839,
+"pat": 423,
+"rev": 42947
 },
 "relianceinds": {
 "ebitda": 56616,
