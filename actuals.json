@@ -74,6 +74,11 @@
 "pat": 388,
 "rev": 1794
 },
+"alembicpharma": {
+"ebitda": 562,
+"pat": 334,
+"rev": 2603
+},
 "alkylamines": {
 "ebitda": 98,
 "pat": 65,
@@ -304,10 +309,20 @@
 "pat": 112,
 "rev": 4762
 },
+"centuryplyboards": {
+"ebitda": 230,
+"pat": 104,
+"rev": 1780
+},
 "cgpowerandinds": {
 "ebitda": 540,
 "pat": 409,
 "rev": 3802
+},
+"chalethotels": {
+"ebitda": 218,
+"pat": 216,
+"rev": 502
 },
 "cieautomotive": {
 "ebitda": 374,
@@ -323,6 +338,11 @@
 "ebitda": null,
 "pat": 416,
 "rev": 2092
+},
+"cleanmaxenviroenergysolutions": {
+"ebitda": 524,
+"pat": 65,
+"rev": 728
 },
 "cleanscience": {
 "ebitda": 92,
