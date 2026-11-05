@@ -144,6 +144,11 @@
 "pat": 1085,
 "rev": 9977
 },
+"astral": {
+"ebitda": 260,
+"pat": 127,
+"rev": 1988
+},
 "atherenergy": {
 "ebitda": 11,
 "pat": 1,
@@ -1373,6 +1378,11 @@
 "ebitda": 284,
 "pat": 181,
 "rev": 3284
+},
+"rubiconresearch": {
+"ebitda": 144,
+"pat": 90,
+"rev": 576
 },
 "sagility": {
 "ebitda": 512,
