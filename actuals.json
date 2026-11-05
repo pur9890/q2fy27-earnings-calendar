@@ -244,6 +244,11 @@
 "pat": 10710,
 "rev": 60878
 },
+"bhartihexacom": {
+"ebitda": 1377,
+"pat": 566,
+"rev": 2582
+},
 "billionbrains": {
 "ebitda": 596,
 "pat": 592,
@@ -273,6 +278,11 @@
 "ebitda": 424,
 "pat": 219,
 "rev": 1196
+},
+"britannia": {
+"ebitda": 1018,
+"pat": 726,
+"rev": 5598
 },
 "bse": {
 "ebitda": 973,
@@ -1553,6 +1563,11 @@
 "ebitda": 85,
 "pat": 66,
 "rev": 120
+},
+"titancompany": {
+"ebitda": 2983,
+"pat": 2393,
+"rev": 20614
 },
 "torrentpharma": {
 "ebitda": 1666,
