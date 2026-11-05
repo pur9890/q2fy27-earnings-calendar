@@ -544,6 +544,11 @@
 "pat": 32,
 "rev": 340
 },
+"fortishealthcare": {
+"ebitda": 623,
+"pat": 320,
+"rev": 2735
+},
 "fractalanalytics": {
 "ebitda": 127,
 "pat": 79,
@@ -1004,6 +1009,11 @@
 "pat": 1507,
 "rev": 7194
 },
+"lifeinsurancecorp": {
+"ebitda": 12518,
+"pat": 12076,
+"rev": 264839
+},
 "lodhadevelopers": {
 "ebitda": 1488,
 "pat": 1014,
@@ -1169,6 +1179,11 @@
 "pat": 762,
 "rev": 1671
 },
+"ongc": {
+"ebitda": 37130,
+"pat": 18535,
+"rev": 198263
+},
 "orientelectric": {
 "ebitda": 57,
 "pat": 27,
@@ -1278,6 +1293,11 @@
 "ebitda": 736,
 "pat": 462,
 "rev": 2632
+},
+"prestigeestates": {
+"ebitda": 926,
+"pat": 256,
+"rev": 2060
 },
 "princepipes": {
 "ebitda": 100,
