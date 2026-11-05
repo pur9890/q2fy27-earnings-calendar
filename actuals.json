@@ -844,6 +844,11 @@
 "pat": 22503,
 "rev": 253967
 },
+"ipcalabs": {
+"ebitda": 673,
+"pat": 389,
+"rev": 2910
+},
 "itc": {
 "ebitda": 5645,
 "pat": 4229,
@@ -1574,6 +1579,11 @@
 "pat": 1610,
 "rev": 16180
 },
+"thermax": {
+"ebitda": 194,
+"pat": 113,
+"rev": 2756
+},
 "tilaknagarindustries": {
 "ebitda": 148,
 "pat": 22,
@@ -1618,6 +1628,11 @@
 "ebitda": 314,
 "pat": 176,
 "rev": 1719
+},
+"tubeinvestments": {
+"ebitda": 734,
+"pat": 421,
+"rev": 7330
 },
 "tvsmotor": {
 "ebitda": 2721,
