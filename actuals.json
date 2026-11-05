@@ -579,6 +579,11 @@
 "pat": 59,
 "rev": 463
 },
+"glenmarkpharma": {
+"ebitda": 864,
+"pat": 264,
+"rev": 4247
+},
 "globalhealth": {
 "ebitda": 370,
 "pat": 219,
@@ -1628,6 +1633,11 @@
 "ebitda": 642,
 "pat": 428,
 "rev": 3264
+},
+"unominda": {
+"ebitda": 733,
+"pat": 441,
+"rev": 6655
 },
 "updaterservices": {
 "ebitda": 43,
