@@ -299,6 +299,11 @@
 "pat": 104,
 "rev": 1774
 },
+"bluejethealthcare": {
+"ebitda": 119,
+"pat": 103,
+"rev": 376
+},
 "bluestar": {
 "ebitda": 203,
 "pat": 124,
@@ -538,6 +543,11 @@
 "ebitda": 1723,
 "pat": 913,
 "rev": 8698
+},
+"dynamatictechnologies": {
+"ebitda": 56,
+"pat": 22,
+"rev": 453
 },
 "elgiequipments": {
 "ebitda": 185,
@@ -1128,6 +1138,11 @@
 "ebitda": 176,
 "pat": 95,
 "rev": 412
+},
+"lemontreehotel": {
+"ebitda": 159,
+"pat": 80,
+"rev": 361
 },
 "lenskartsolutions": {
 "ebitda": 622,
