@@ -409,6 +409,11 @@
 "pat": 605,
 "rev": 6171
 },
+"cohancelifesciences": {
+"ebitda": 35,
+"pat": 2,
+"rev": 477
+},
 "colgate": {
 "ebitda": 473,
 "pat": 342,
@@ -624,6 +629,11 @@
 "pat": 1269,
 "rev": 1824
 },
+"glandpharma": {
+"ebitda": 484,
+"pat": 291,
+"rev": 1834
+},
 "glenmarkpharma": {
 "ebitda": 864,
 "pat": 264,
@@ -643,6 +653,11 @@
 "ebitda": 93,
 "pat": 56,
 "rev": 625
+},
+"godigit": {
+"ebitda": 362,
+"pat": 142,
+"rev": 3089
 },
 "godrejconsumer": {
 "ebitda": 820,
@@ -963,6 +978,11 @@
 "ebitda": 10120,
 "pat": 5359,
 "rev": 54486
+},
+"jubilantfoodworks": {
+"ebitda": 513,
+"pat": 112,
+"rev": 2608
 },
 "justdial": {
 "ebitda": 91,
