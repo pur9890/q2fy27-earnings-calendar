@@ -294,6 +294,11 @@
 "pat": 37,
 "rev": 2415
 },
+"bluedartexpress": {
+"ebitda": 287,
+"pat": 104,
+"rev": 1774
+},
 "bluestar": {
 "ebitda": 203,
 "pat": 124,
@@ -613,6 +618,11 @@
 "ebitda": 127,
 "pat": 79,
 "rev": 956
+},
+"fujiyamapower": {
+"ebitda": 223,
+"pat": 133,
+"rev": 1307
 },
 "fusionfinance": {
 "ebitda": null,
@@ -1598,6 +1608,11 @@
 "ebitda": 626,
 "pat": 504,
 "rev": 5734
+},
+"signatureglobal": {
+"ebitda": 75,
+"pat": 67,
+"rev": 817
 },
 "sis": {
 "ebitda": 223,
