@@ -104,6 +104,11 @@
 "pat": 69,
 "rev": 1148
 },
+"amagimedialabs": {
+"ebitda": 64,
+"pat": 75,
+"rev": 476
+},
 "amararajaenergy": {
 "ebitda": 362,
 "pat": 152,
@@ -1324,6 +1329,11 @@
 "pat": 74,
 "rev": 2474
 },
+"pearlglobal": {
+"ebitda": 182,
+"pat": 126,
+"rev": 1802
+},
 "persistentsystems": {
 "ebitda": 633,
 "pat": 352,
@@ -1853,6 +1863,11 @@
 "ebitda": 1424,
 "pat": 831,
 "rev": 6608
+},
+"vatechwabag": {
+"ebitda": 124,
+"pat": 104,
+"rev": 1000
 },
 "vedanta": {
 "ebitda": 9915,
