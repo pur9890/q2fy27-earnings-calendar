@@ -274,6 +274,11 @@
 "pat": 124,
 "rev": 2931
 },
+"bosch": {
+"ebitda": 1037,
+"pat": 840,
+"rev": 7655
+},
 "bpcl": {
 "ebitda": 8973,
 "pat": 4863,
@@ -403,6 +408,11 @@
 "ebitda": 550,
 "pat": 354,
 "rev": 2379
+},
+"coromandelinternational": {
+"ebitda": 942,
+"pat": 523,
+"rev": 10294
 },
 "craftsmanauto": {
 "ebitda": 392,
