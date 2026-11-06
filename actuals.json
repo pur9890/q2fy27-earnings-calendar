@@ -129,6 +129,11 @@
 "pat": 335,
 "rev": 1427
 },
+"anupamrasayan": {
+"ebitda": 187,
+"pat": 65,
+"rev": 806
+},
 "aplapollotubes": {
 "ebitda": 578,
 "pat": 382,
@@ -793,6 +798,11 @@
 "ebitda": 9248,
 "pat": 6412,
 "rev": 15093
+},
+"honasaconsumer": {
+"ebitda": 93,
+"pat": 73,
+"rev": 731
 },
 "hpcl": {
 "ebitda": 9048,
@@ -1828,6 +1838,11 @@
 "ebitda": 191,
 "pat": 132,
 "rev": 415
+},
+"vardhmantextiles": {
+"ebitda": 561,
+"pat": 359,
+"rev": 2866
 },
 "varrocengineering": {
 "ebitda": 257,
