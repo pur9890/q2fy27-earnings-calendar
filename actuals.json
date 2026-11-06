@@ -504,6 +504,11 @@
 "pat": 38,
 "rev": 668
 },
+"dragarwalshealth": {
+"ebitda": 176,
+"pat": 57,
+"rev": 655
+},
 "drlalpathlabs": {
 "ebitda": 280,
 "pat": 194,
@@ -728,6 +733,11 @@
 "ebitda": 212,
 "pat": 153,
 "rev": 339
+},
+"happyforgings": {
+"ebitda": 153,
+"pat": 98,
+"rev": 501
 },
 "havellsindia": {
 "ebitda": 573,
@@ -1373,6 +1383,11 @@
 "ebitda": 1422,
 "pat": 990,
 "rev": 9899
+},
+"polymedicure": {
+"ebitda": 138,
+"pat": 95,
+"rev": 581
 },
 "poonawallafincorp": {
 "ebitda": null,
