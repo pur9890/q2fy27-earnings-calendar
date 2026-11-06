@@ -274,6 +274,11 @@
 "pat": 566,
 "rev": 2582
 },
+"bikajifoods": {
+"ebitda": 119,
+"pat": 69,
+"rev": 939
+},
 "billionbrains": {
 "ebitda": 596,
 "pat": 592,
@@ -673,6 +678,11 @@
 "ebitda": 362,
 "pat": 142,
 "rev": 3089
+},
+"godrejagrovet": {
+"ebitda": 200,
+"pat": 103,
+"rev": 2995
 },
 "godrejconsumer": {
 "ebitda": 820,
@@ -1873,6 +1883,11 @@
 "ebitda": 9915,
 "pat": 6202,
 "rev": 26356
+},
+"vedantfashions": {
+"ebitda": 105,
+"pat": 56,
+"rev": 269
 },
 "ventivehospitality": {
 "ebitda": 208,
