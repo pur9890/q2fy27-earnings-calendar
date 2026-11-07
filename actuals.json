@@ -1814,10 +1814,20 @@
 "pat": 76,
 "rev": 866
 },
+"tciexpress": {
+"ebitda": 36,
+"pat": 23,
+"rev": 338
+},
 "tcs": {
 "ebitda": 18815,
 "pat": 13934,
 "rev": 73188
+},
+"teamleaseserv": {
+"ebitda": 36,
+"pat": 23,
+"rev": 3076
 },
 "techmahindra": {
 "ebitda": 2878,
