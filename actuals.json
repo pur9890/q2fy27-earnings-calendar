@@ -144,6 +144,11 @@
 "pat": 65,
 "rev": 806
 },
+"anupengineering": {
+"ebitda": 17,
+"pat": 7,
+"rev": 182
+},
 "aplapollotubes": {
 "ebitda": 578,
 "pat": 382,
@@ -218,6 +223,11 @@
 "ebitda": null,
 "pat": 87,
 "rev": 514
+},
+"azadengineering": {
+"ebitda": 72,
+"pat": 31,
+"rev": 191
 },
 "bajajauto": {
 "ebitda": 4896,
