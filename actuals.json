@@ -1304,6 +1304,11 @@
 "pat": 75,
 "rev": 497
 },
+"midwest": {
+"ebitda": 48,
+"pat": 30,
+"rev": 183
+},
 "moldtekpackaging": {
 "ebitda": 51,
 "pat": 21,
@@ -1313,6 +1318,11 @@
 "ebitda": 829,
 "pat": 561,
 "rev": 4581
+},
+"mrf": {
+"ebitda": 958,
+"pat": 387,
+"rev": 8660
 },
 "mrsbectorsfood": {
 "ebitda": 83,
