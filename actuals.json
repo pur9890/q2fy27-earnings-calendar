@@ -279,6 +279,11 @@
 "pat": 18,
 "rev": 862
 },
+"bharatdynamics": {
+"ebitda": 101,
+"pat": 183,
+"rev": 1664
+},
 "bharatelectronics": {
 "ebitda": 2041,
 "pat": 1540,
@@ -864,6 +869,11 @@
 "pat": 429,
 "rev": 3933
 },
+"hindaeronautics": {
+"ebitda": 1739,
+"pat": 1936,
+"rev": 7613
+},
 "hindalco": {
 "ebitda": 12814,
 "pat": 7533,
@@ -878,6 +888,11 @@
 "ebitda": 9248,
 "pat": 6412,
 "rev": 15093
+},
+"hitachienergy": {
+"ebitda": 406,
+"pat": 318,
+"rev": 2997
 },
 "honasaconsumer": {
 "ebitda": 93,
