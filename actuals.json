@@ -1269,6 +1269,11 @@
 "pat": 29,
 "rev": 2095
 },
+"manappuramfinance": {
+"ebitda": null,
+"pat": 701,
+"rev": 3362
+},
 "mandmfinancial": {
 "ebitda": null,
 "pat": 911,
@@ -1428,6 +1433,11 @@
 "ebitda": 57,
 "pat": 27,
 "rev": 879
+},
+"pageindustries": {
+"ebitda": 300,
+"pat": 203,
+"rev": 1440
 },
 "paradeepphosphates": {
 "ebitda": 413,
