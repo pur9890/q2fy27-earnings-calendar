@@ -1424,6 +1424,11 @@
 "pat": 2521,
 "rev": 11535
 },
+"olaelectric": {
+"ebitda": -218,
+"pat": -362,
+"rev": 421
+},
 "ongc": {
 "ebitda": 37130,
 "pat": 18535,
@@ -1438,6 +1443,11 @@
 "ebitda": 300,
 "pat": 203,
 "rev": 1440
+},
+"pandghygiene": {
+"ebitda": 260,
+"pat": 196,
+"rev": 1145
 },
 "paradeepphosphates": {
 "ebitda": 413,
