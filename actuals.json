@@ -219,6 +219,11 @@
 "pat": 858,
 "rev": 5612
 },
+"avalontech": {
+"ebitda": 66,
+"pat": 40,
+"rev": 525
+},
 "avenuesupermarts": {
 "ebitda": 1393,
 "pat": 743,
@@ -1393,6 +1398,11 @@
 "ebitda": 551,
 "pat": 301,
 "rev": 2844
+},
+"natcopharma": {
+"ebitda": 258,
+"pat": 203,
+"rev": 967
 },
 "navinfluorine": {
 "ebitda": 407,
