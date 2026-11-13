@@ -599,6 +599,11 @@
 "pat": 22,
 "rev": 453
 },
+"eichermotors": {
+"ebitda": 1760,
+"pat": 1573,
+"rev": 7422
+},
 "elgiequipments": {
 "ebitda": 185,
 "pat": 128,
@@ -783,6 +788,11 @@
 "ebitda": 338,
 "pat": 182,
 "rev": 1560
+},
+"grasimindustries": {
+"ebitda": 9722,
+"pat": 1029,
+"rev": 50105
 },
 "gravitaindia": {
 "ebitda": 134,
@@ -1878,6 +1888,11 @@
 "ebitda": 2648,
 "pat": 1254,
 "rev": 25338
+},
+"tatamotorspv": {
+"ebitda": 4866,
+"pat": -5451,
+"rev": 96920
 },
 "tatapower": {
 "ebitda": 3667,
