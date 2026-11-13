@@ -1189,6 +1189,11 @@
 "pat": 130,
 "rev": 2284
 },
+"knrconstructions": {
+"ebitda": 147,
+"pat": 102,
+"rev": 600
+},
 "kotakmahindrabank": {
 "ebitda": null,
 "pat": 5645,
@@ -2143,6 +2148,11 @@
 "ebitda": 126,
 "pat": 78,
 "rev": 680
+},
+"vipinds": {
+"ebitda": -33,
+"pat": -31,
+"rev": 468
 },
 "vishalmegamart": {
 "ebitda": 412,
