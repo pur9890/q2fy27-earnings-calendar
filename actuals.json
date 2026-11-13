@@ -19,6 +19,11 @@
 "pat": 182,
 "rev": 736
 },
+"abbindia": {
+"ebitda": 552,
+"pat": 443,
+"rev": 3738
+},
 "acc": {
 "ebitda": 401,
 "pat": 93,
@@ -1028,6 +1033,11 @@
 "ebitda": 89,
 "pat": 67,
 "rev": 456
+},
+"inoxwind": {
+"ebitda": 205,
+"pat": 69,
+"rev": 1354
 },
 "intellectdesignarena": {
 "ebitda": 166,
