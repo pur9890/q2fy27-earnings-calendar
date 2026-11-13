@@ -1059,6 +1059,11 @@
 "pat": 260,
 "rev": 1897
 },
+"irctc": {
+"ebitda": 408,
+"pat": 264,
+"rev": 1333
+},
 "itc": {
 "ebitda": 5645,
 "pat": 4229,
@@ -1408,6 +1413,11 @@
 "ebitda": 109,
 "pat": 87,
 "rev": 422
+},
+"nmdc": {
+"ebitda": 1940,
+"pat": 1668,
+"rev": 6638
 },
 "northernarc": {
 "ebitda": null,
